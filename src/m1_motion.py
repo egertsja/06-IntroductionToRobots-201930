@@ -22,7 +22,7 @@ def main():
 
     # DONE: 2. Construct a RoseBot.  Send it as an argument to other functions.
     robot = rb.RoseBot()
-    #run_test_spin(robot)
+    run_test_spin(robot)
     run_test_go(robot)
     challenge1(robot)
     challenge2(robot)
