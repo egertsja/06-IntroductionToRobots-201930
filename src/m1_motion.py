@@ -6,7 +6,7 @@ their colleagues, and Jonah Egertson.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # -----------------------------------------------------------------------------
-# TODO: 2.
+# DONE: 2.
 #   Follow along with the lecture to run this program:
 #    - Using SSH from your computer
 #   When you have successfully run this program, change this _TODO_ to DONE.
